@@ -918,7 +918,7 @@ padding-bottom: 25px;
 position: relative;
 overflow: hidden;
 transition: 0.3s;
-z-index: 1;
+z-index: -1;
  }
  .pricing-section .container .plan:hover{
     scale: 1.05;
