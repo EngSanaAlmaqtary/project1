@@ -936,7 +936,7 @@ z-index: 1;
     top:10px;
     left:-60px;
     transform: rotate(-45deg);
-    z-index: -1;
+   z-index: -1;
  }
  .pricing-section .container .plan:nth-child(3)::before{
     content: "عرض خاص";
@@ -951,7 +951,7 @@ z-index: 1;
     top:10px;
     left:-60px;
     transform: rotate(-45deg);
-    z-index: -1;
+   z-index: -1;
  }
  .pricing-section .container .plan .plan-title{
     font-size: 23px;
